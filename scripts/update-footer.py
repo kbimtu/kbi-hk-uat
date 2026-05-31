@@ -77,7 +77,7 @@ def build_footer(file_path: Path) -> str:
           </div>
         </a>
         <p class="footer-tagline">Building Hong Kong's pipeline of emerging technology talent through competitions, research, and community.</p>
-        <p class="footer-copyright">&copy; 2026 KBI Hong Kong. All rights reserved.<br>A chapter of the Königsberger Bridges Institute.</p>
+        <p class="footer-copyright">&copy; 2026 Kingsbridge Institute Limited. All rights reserved.<br>A chapter of the Königsberger Bridges Institute.</p>
         <div class="footer-social" aria-label="Social media links">
           <a href="#" class="footer-social-link" aria-label="LinkedIn">
             <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">{LINKEDIN_SVG}</svg>
