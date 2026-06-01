@@ -142,7 +142,7 @@ ARTICLES = [
             ("intro", "Introduction"),
             ("whats-new", "What's new in 2026"),
             ("overview", "At a glance"),
-            ("eto-and-i2ol", "ETO and I²OL"),
+            ("eto-and-i2ol", "ETO and I2OL"),
             ("registration", "Registration"),
             ("coming-2026", "Also in 2026"),
             ("cta", "Register"),
@@ -150,7 +150,7 @@ ARTICLES = [
         "sidebar_buttons": [
             {"href": "https://forms.gle/7WwvpwKxkDXtRbK2A", "label": "Register Interest →", "class": "btn btn-yellow btn--sm"},
             {"href": "../upcoming events/eto2026.html", "label": "ETO 2026 Programme Page"},
-            {"href": "../programme/i2ol.html", "label": "I²OL Scheme"},
+            {"href": "../programme/i2ol.html", "label": "I2OL Scheme"},
         ],
         "related": [
             {"href": "news-skillsprint-2026-launch.html", "title": "Emerging-Technology SkillSprint (ETS) 2026", "meta": "Announcement · 4 min"},
@@ -158,7 +158,7 @@ ARTICLES = [
         ],
         "body": '''
           <p id="intro">KBI Hong Kong is pleased to announce that <strong>ETO Eastern Conference 2026</strong> — the Emerging Technologies Olympiad Eastern Conference — is open for interest registration. The conference will be held from <strong>9–11 October 2026</strong> at the Canadian International School of Hong Kong (CDNIS).</p>
-          <p>ETO is a global, cross-disciplinary emerging-technologies conference spanning three domains: Blockchain and Trust Technologies (BCTT), Data Science and Artificial Intelligence (DSAI), and Quantum Computing and Information Technologies (QCIT). It is distinct from the I²OL subject olympiads (IBCOL, IDSOL, IQCOL). Students worldwide are invited to attend in person, with a particular focus on participants across the eastern hemisphere.</p>
+          <p>ETO is a global, cross-disciplinary emerging-technologies conference spanning three domains: Blockchain and Trust Technologies (BCTT), Data Science and Artificial Intelligence (DSAI), and Quantum Computing and Information Technologies (QCIT). It is distinct from the I2OL subject olympiads (IBCOL, IDSOL, IQCOL). Students worldwide are invited to attend in person, with a particular focus on participants across the eastern hemisphere.</p>
           <div class="article-pullquote"><p>"ETO Eastern is where Hong Kong's sharpest student minds prove themselves — not just against each other, but against the best in the world."</p></div>
           <h2 id="whats-new">What's new in 2026</h2>
           <p>The 2026 cycle brings several structural updates. Most significantly, the programme now formally adopts a two-stream model aligned with international ISCED classification, so every level of student competes in an appropriately benchmarked cohort.</p>
@@ -178,9 +178,9 @@ ARTICLES = [
               <div class="article-fact-item">Scale: Approximately 36 teams and 300 participants expected</div>
             </div>
           </div>
-          <h2 id="eto-and-i2ol">How ETO relates to I²OL</h2>
-          <p>Students may also compete in the I²OL subject olympiads — IBCOL, IDSOL, and IQCOL — each with its own Hong Kong round and international finals. ETO is a separate conference with its own structure and adjudication.</p>
-          <p>See the <a href="../programme/i2ol.html">I²OL Scheme</a> page for the subject olympiad structure. See the <a href="../upcoming events/eto2026.html">ETO Eastern Conference 2026</a> page for detailed programme, tracks, and judging.</p>
+          <h2 id="eto-and-i2ol">How ETO relates to I2OL</h2>
+          <p>Students may also compete in the I2OL subject olympiads — IBCOL, IDSOL, and IQCOL — each with its own Hong Kong round and international finals. ETO is a separate conference with its own structure and adjudication.</p>
+          <p>See the <a href="../programme/i2ol.html">I2OL Scheme</a> page for the subject olympiad structure. See the <a href="../upcoming events/eto2026.html">ETO Eastern Conference 2026</a> page for detailed programme, tracks, and judging.</p>
           <h2 id="registration">Registration and next steps</h2>
           <p>Interest registration is now open. Prospective participants — individually or as a team — are encouraged to register interest to receive:</p>
           <ul>
@@ -267,32 +267,32 @@ ARTICLES = [
     {
         "slug": "news-iqcol-hk-launch.html",
         "meta_title": "Introducing IQCOL Hong Kong — KBI Hong Kong",
-        "meta_desc": "KBI Hong Kong introduces IQCOL Hong Kong — the quantum computing olympiad completing the I²OL triad alongside IBCOL and IDSOL.",
+        "meta_desc": "KBI Hong Kong introduces IQCOL Hong Kong — the quantum computing olympiad completing the I2OL triad alongside IBCOL and IDSOL.",
         "tags": ["Announcement", "Competitions", "IQCOL"],
         "byline": "KBI HK Competitions Team",
         "date": "1 May 2026",
         "read_time": "5 min",
         "hero_h1": "Introducing IQCOL Hong Kong:<br>The Quantum Olympiad <em>Arrives</em>",
         "subtitle": "A new pathway for students serious about quantum.",
-        "toc": [("intro", "Introduction"), ("why-matters", "Why IQCOL matters"), ("i2ol-fit", "I²OL fit"), ("format", "Format"), ("who-should-join", "Who should join"), ("next-steps", "Next steps")],
-        "sidebar_buttons": [{"href": "https://2026.iqcol.org", "label": "IQCOL 2026", "class": "btn btn-yellow btn--sm"}, {"href": "../programme/i2ol.html", "label": "I²OL Scheme"}],
+        "toc": [("intro", "Introduction"), ("why-matters", "Why IQCOL matters"), ("i2ol-fit", "I2OL fit"), ("format", "Format"), ("who-should-join", "Who should join"), ("next-steps", "Next steps")],
+        "sidebar_buttons": [{"href": "https://2026.iqcol.org", "label": "IQCOL 2026", "class": "btn btn-yellow btn--sm"}, {"href": "../programme/i2ol.html", "label": "I2OL Scheme"}],
         "related": [{"href": "news-eto-eastern-2026.html", "title": "ETO Eastern Conference 2026", "meta": "5 min"}],
         "body": '''
-          <p id="intro">KBI Hong Kong is proud to introduce the first <strong>IQCOL Hong Kong</strong> — the quantum computing and information olympiad that completes the I²OL triad alongside IBCOL (blockchain) and IDSOL (data science).</p>
+          <p id="intro">KBI Hong Kong is proud to introduce the first <strong>IQCOL Hong Kong</strong> — the quantum computing and information olympiad that completes the I2OL triad alongside IBCOL (blockchain) and IDSOL (data science).</p>
           <p>IQCOL provides a structured way for students to engage with quantum concepts, from foundational ideas to more advanced problem-solving, in a competition format that still prioritises understanding over memorisation.</p>
           <h2 id="why-matters">Why IQCOL matters</h2>
           <p>Quantum computing is often treated as either distant or purely theoretical. IQCOL Hong Kong is designed to make serious quantum concepts accessible to motivated students; provide a clear progression from basic literacy to deeper engagement; and connect participants to a community of peers, mentors, and future opportunities.</p>
           <p>Participants may encounter topics such as qubits and measurement, quantum gates and simple circuits, quantum error and noise, and implications for cryptography and security.</p>
-          <h2 id="i2ol-fit">How IQCOL fits into I²OL</h2>
+          <h2 id="i2ol-fit">How IQCOL fits into I2OL</h2>
           <p>IQCOL Hong Kong sits alongside IBCOL and IDSOL, covering blockchain and trust technologies, data and AI, and quantum computing and information technologies. Students may focus on IQCOL or participate across multiple olympiads.</p>
           <h2 id="format">Format and expectations</h2>
           <p>The inaugural IQCOL Hong Kong edition will run as a local qualifying round ahead of international finals, include written and problem-solving components, and emphasise clarity of reasoning. Detailed rules will be published in the IQCOL HK competition brief.</p>
           <h2 id="who-should-join">Who should consider IQCOL</h2>
           <p>IQCOL suits secondary and university students with strong interest in mathematics, physics, or computer science; past participants of quantum seminars or KBI activities; and newcomers ready to work seriously. Prior quantum programming experience is not required.</p>
           <h2 id="next-steps">Next steps</h2>
-          <p>Join <a href="../programme/membership.html">KBI HK membership</a> for early updates, watch the <a href="../programme/i2ol.html">I²OL Scheme</a> page, and attend upcoming quantum-themed events to prepare.</p>''',
+          <p>Join <a href="../programme/membership.html">KBI HK membership</a> for early updates, watch the <a href="../programme/i2ol.html">I2OL Scheme</a> page, and attend upcoming quantum-themed events to prepare.</p>''',
         "cta": "",
-        "card": {"category": "announcement", "tag": "Announcement", "date": "1 May 2026", "title": "Introducing IQCOL Hong Kong", "excerpt": "The quantum computing olympiad completes the I²OL triad alongside IBCOL and IDSOL.", "img": IMG_QUANTUM},
+        "card": {"category": "announcement", "tag": "Announcement", "date": "1 May 2026", "title": "Introducing IQCOL Hong Kong", "excerpt": "The quantum computing olympiad completes the I2OL triad alongside IBCOL and IDSOL.", "img": IMG_QUANTUM},
     },
     {
         "slug": "insight-seriousness-without-hype.html",
